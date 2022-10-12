@@ -1,0 +1,15 @@
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.csproj.AssemblyReference.cache
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.AssemblyInfoInputs.cache
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.AssemblyInfo.cs
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\bin\Debug\net6.0\Example005_If.exe
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\bin\Debug\net6.0\Example005_If.deps.json
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\bin\Debug\net6.0\Example005_If.runtimeconfig.json
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\bin\Debug\net6.0\Example005_If.dll
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\bin\Debug\net6.0\Example005_If.pdb
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.dll
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\refint\Example005_If.dll
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.pdb
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\Example005_If.genruntimeconfig.cache
+C:\Users\HP Pavilion Gamer\Desktop\Example\Example005_If\obj\Debug\net6.0\ref\Example005_If.dll
